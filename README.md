@@ -18,4 +18,4 @@
 </p>
 
 
-[![Kangmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boring-km)](https://github.com/anuraghazra/github-readme-stats)
+[![Kangmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boring-km&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
