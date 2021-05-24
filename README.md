@@ -2,7 +2,12 @@
 
 - I'm Junior Developer
 - I'm interested in making **Clean Code**.
-- I'm looking for a company to move to.
+
+### History
+- 18.06 ~ 18.08 Neowine Internship
+- 19.08 ~ 20.02 Unipoint Internship
+- 20.02 ~ 21.04 Unipoint SI Developer
+- 21.06 ~ 21.07 wjthinkbig Internship
 
 ### 💡I'm interested in ...
 <p align="left">
