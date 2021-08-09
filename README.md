@@ -8,6 +8,7 @@
 - 19.08 ~ 20.02 Unipoint Internship
 - 20.02 ~ 21.04 Unipoint SI Developer
 - 21.06 ~ 21.07 wjthinkbig Internship
+- 21.08 ~ wjthinkbig Client Developer
 
 ### 💡I'm interested in ...
 <p align="left">
