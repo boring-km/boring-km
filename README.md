@@ -4,11 +4,12 @@
 - I'm interested in making **Clean Code**.
 
 ### History
-- 18.06 ~ 18.08 Neowine Internship
-- 19.08 ~ 20.02 Unipoint Internship
-- 20.02 ~ 21.04 Unipoint SI Developer
-- 21.06 ~ 21.07 wjthinkbig Internship
 - 21.08 ~ wjthinkbig Client Developer
+- 21.06 ~ 21.07 wjthinkbig Internship
+- 20.02 ~ 21.04 Unipoint SI Developer
+- 19.08 ~ 20.02 Unipoint Internship
+- 18.06 ~ 18.08 Neowine Internship
+
 
 ### 💡I'm interested in ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boring-km&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
