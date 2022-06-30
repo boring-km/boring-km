@@ -1,8 +1,11 @@
-- I'm Junior Developer
-- I'm interested in making **Clean Code**.
+[![Just Do it](https://user-images.githubusercontent.com/34850203/176701193-96caebe0-1112-4500-8c9c-e75d0b5fc8e8.png)](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
 
-### 💡I'm interested in ...
+### Hi, I'm Kangmin 👋
+
+- I'm a Korean developer mainly interested in Android and iOS Apps.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boring-km&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="left">
     <img src="https://img.shields.io/badge/-Flutter-0088cc?style=flat&logo=Flutter">
@@ -15,7 +18,3 @@
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/-JavaScript-FCC624?style=flat&logo=Javascript&logoColor=white">
 </p>
-
-### Others
-
-[![Kangmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boring-km&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
