@@ -1,6 +1,7 @@
-[![Just Do it](https://user-images.githubusercontent.com/34850203/176701193-96caebe0-1112-4500-8c9c-e75d0b5fc8e8.png)](https://youtu.be/ZXsQAXx_ao0?t=5)
+[![Just Do it](https://user-images.githubusercontent.com/34850203/176704648-162ea4b4-4473-4da0-b39f-63043e2b28a4.gif)](https://youtu.be/ZXsQAXx_ao0?t=5)
 
 ### Hi, I'm Kangmin 👋
+
 
 - I'm a Korean developer mainly interested in Android and iOS Apps.
 
