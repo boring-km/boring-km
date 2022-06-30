@@ -1,4 +1,4 @@
-[![Just Do it](https://user-images.githubusercontent.com/34850203/176701193-96caebe0-1112-4500-8c9c-e75d0b5fc8e8.png)](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
+[![Just Do it](https://user-images.githubusercontent.com/34850203/176701193-96caebe0-1112-4500-8c9c-e75d0b5fc8e8.png)](https://youtu.be/ZXsQAXx_ao0?t=5)
 
 ### Hi, I'm Kangmin 👋
 
