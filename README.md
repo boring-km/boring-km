@@ -1,4 +1,5 @@
 [![Just Do it](https://user-images.githubusercontent.com/34850203/176704648-162ea4b4-4473-4da0-b39f-63043e2b28a4.gif)](https://youtu.be/ZXsQAXx_ao0?t=5)
+<-- Click Me!
 
 ### Hi, I'm Kangmin 👋
 
@@ -6,7 +7,6 @@
 - I'm a Korean developer mainly interested in Android and iOS Apps.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boring-km&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <p align="left">
     <img src="https://img.shields.io/badge/-Flutter-0088cc?style=flat&logo=Flutter">
