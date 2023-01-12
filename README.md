@@ -6,7 +6,9 @@
 
 - I'm a Korean developer mainly interested in Android and iOS Apps.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boring-km&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=boring-km&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://opgc.me/#/users/boring-km" target="_blank"><img src="https://api.opgc.me/githubs/users/boring-km/tag/?theme=basic" /></a>
 
 <p align="left">
