@@ -4,7 +4,7 @@
 ### Hi, I'm Kangmin 👋
 
 
-- I'm a Korean developer mainly interested in Android and iOS Apps.
+- I'm a Korean developer mainly interested in Developing Android and iOS Apps.
 
 
 
