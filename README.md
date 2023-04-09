@@ -1,6 +1,8 @@
 [![Just Do it](https://user-images.githubusercontent.com/34850203/176704648-162ea4b4-4473-4da0-b39f-63043e2b28a4.gif)](https://youtu.be/ZXsQAXx_ao0?t=5)
 <-- Click Me!
 
+[Extra Motivation Video](https://www.youtube.com/watch?v=B9LIYb3BIQ8)
+
 ### Hi, I'm Kangmin 👋
 
 
