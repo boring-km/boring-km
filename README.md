@@ -19,6 +19,7 @@
 
 - [dynamic_image_crop](https://pub.dev/packages/dynamic_image_crop)
 
+<br/>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=boring-km&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://opgc.me/#/users/boring-km" target="_blank"><img src="https://api.opgc.me/githubs/users/boring-km/tag/?theme=basic" /></a>
