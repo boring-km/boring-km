@@ -1,4 +1,7 @@
-[My Motivation Video](https://www.youtube.com/watch?v=BxY_eJLBflk&ab_channel=ABOVEINSPIRATION)
+### My Motivation Video
+
+[![Put God First](https://i.ytimg.com/vi/BxY_eJLBflk/maxresdefault.jpg)](https://www.youtube.com/watch?v=BxY_eJLBflk&ab_channel=ABOVEINSPIRATION)
+[Click Image or Me](https://www.youtube.com/watch?v=BxY_eJLBflk&ab_channel=ABOVEINSPIRATION)
 
 ## Hi, I'm Kangmin 👋
 
