@@ -21,7 +21,6 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=boring-km&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://opgc.me/#/users/boring-km" target="_blank"><img src="https://api.opgc.me/githubs/users/boring-km/tag/?theme=basic" /></a>
 
 <p align="left">
     <img src="https://img.shields.io/badge/-Flutter-0088cc?style=flat&logo=Flutter">
